@@ -1,0 +1,45 @@
+@charset "utf-8";
+
+/* serve para criar comentario no css */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: aliceblue;
+  font-family: "Courier New", Courier, monospace;
+}
+
+h1 {
+  color: rgba(162, 8, 176, 0.681);
+  text-align: center;
+  margin-top: 7px;
+}
+
+h2 {
+  color: rgb(255, 221, 0);
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  color: brown;
+  font-size: x-large;
+  border: solid red;
+}
+
+#ptxto01 {
+  text-align: center;
+  color: rgb(232, 131, 224);
+  font-size: x-large;
+  border: solid rgb(6, 174, 121);
+}
+
+#ptxto02 {
+  background-color: #000000;
+  color: rgba(250, 0, 187, 0.42);
+  font-size: large;
+}
